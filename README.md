@@ -1,4 +1,4 @@
-## This is a design file I created to showcase my portfolio 
+## This is a design file I created to showcase my portfolio. 
 ## [To View my Portfolio Click Here](https://www.behance.net/gallery/203369747/My-Design-Portfolio). 
 ## You can view the design by clicking on the link below. 
 ## Feel free to explore and provide any feedback. 
